@@ -1,0 +1,21 @@
+{
+  "name": "mess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "handlebars": "^4.0.6",
+    "hapi": "^16.1.1",
+    "inert": "^4.2.0",
+    "nodemon": "^1.11.0",
+    "vision": "^4.1.1"
+  }
+}
